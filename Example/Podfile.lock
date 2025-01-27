@@ -1,0 +1,23 @@
+PODS:
+  - lottie-ios (4.5.1)
+  - YGKit (0.1.1):
+    - lottie-ios
+
+DEPENDENCIES:
+  - YGKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+
+EXTERNAL SOURCES:
+  YGKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lottie-ios: 248b380fa1b97d18e792c37d90da7ab2aa0d6562
+  YGKit: bd5c36c401a3a60ffd8824b4bc399cf054758195
+
+PODFILE CHECKSUM: 68ca10b89e26186c219fede1fbc62c181fb7fb44
+
+COCOAPODS: 1.16.2

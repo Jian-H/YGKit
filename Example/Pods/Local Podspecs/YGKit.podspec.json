@@ -1,0 +1,29 @@
+{
+  "name": "YGKit",
+  "version": "0.1.1",
+  "summary": "YGKit",
+  "swift_versions": "5.0",
+  "description": "YGKit解决开发过程中遇到的一切问题，什么问题都能解决，只要你用它！",
+  "homepage": "https://www.baidu.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jian-H": "1026643065@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Jian-H/YGKit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "YGKit/Classes/**/*",
+  "dependencies": {
+    "lottie-ios": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
